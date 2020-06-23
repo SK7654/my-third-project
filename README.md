@@ -61,6 +61,12 @@ Dockerfile_2
 
 ![0](https://user-images.githubusercontent.com/64473684/85367280-99268c80-b546-11ea-92bf-d6048bcb8c5b.png)
 
+![Captur3](https://user-images.githubusercontent.com/64473684/85367867-b871e980-b547-11ea-8520-89d60ad62941.PNG)
+
+OUTPUT OF JOB 1:
+
+
+
 
 
 
