@@ -92,6 +92,11 @@ JOB 2:
 
 This job will be build after successful build of Job 1. This job has to run on dynamic container slave for that we have already added a template on Docker cloud. This job will create a new deployment (if it does not exist) or else we will roll out update to the existing deployment. Since we our building this job for first time, So it will create a new deployment.
 
+![0 (9)](https://user-images.githubusercontent.com/64473684/85369821-6b901200-b54b-11ea-824b-b06797b4d8c0.png)
+
+It will use label which we have created on Docker cloud.
+
+
 
 
 
