@@ -104,6 +104,12 @@ To check whether kubectl is configured properly or not, We will use command "kub
 
 Output of JOB 2:
 
+![6](https://user-images.githubusercontent.com/64473684/85371049-4ef4d980-b54d-11ea-90cf-4d1f82855d40.PNG)
+
+Now we have to check on minikube, Whether deployment created successfully, web server is exposed and replicas of deployment is created
+
+
+
 
 
 
