@@ -108,9 +108,10 @@ Output of JOB 2:
 
 Now we have to check on minikube, Whether deployment created successfully, web server is exposed and replicas of deployment is created
 
+![0 (12)](https://user-images.githubusercontent.com/64473684/85371546-05f15500-b54e-11ea-916b-cc66a7ebf424.png)
 
 
-
+Web page is also running successfully.
 
 
 
