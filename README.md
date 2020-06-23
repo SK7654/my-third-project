@@ -65,6 +65,12 @@ Dockerfile_2
 
 OUTPUT OF JOB 1:
 
+![4](https://user-images.githubusercontent.com/64473684/85368046-1ef70780-b548-11ea-841a-e861d05d8e4d.PNG)
+
+As you can see my image is successfully pushed to Docker Hub.
+
+
+
 
 
 
