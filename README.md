@@ -59,6 +59,8 @@ In the Build action we are using Build / Publish Docker Image. In this directory
 
 Dockerfile_2
 
+![0](https://user-images.githubusercontent.com/64473684/85367280-99268c80-b546-11ea-92bf-d6048bcb8c5b.png)
+
 
 
 
