@@ -113,6 +113,7 @@ Now we have to check on minikube, Whether deployment created successfully, web s
 
 Web page is also running successfully.
 
+![0 (13)](https://user-images.githubusercontent.com/64473684/85372237-2b329300-b54f-11ea-9fc9-d6b6bdd34dda.png)
 
 
 
