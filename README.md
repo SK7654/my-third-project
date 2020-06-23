@@ -71,6 +71,22 @@ As you can see my image is successfully pushed to Docker Hub.
 
 ![0 (6)](https://user-images.githubusercontent.com/64473684/85368268-9167e780-b548-11ea-81be-366c924e1590.png)
 
+The files used in Job 1 are present in this GitHub repository.
+
+Config file used in Dockerfile 1 for kubectl
+
+
+![0 (7)](https://user-images.githubusercontent.com/64473684/85369246-5e265800-b54a-11ea-8409-171711e3b9d8.png)
+
+Now we will add Docker template in the Docker Cloud settings. In Docker template we need to give a label which we will use during configuration of Job 2 and we need to give right path of our Dockerfile 1. In container settings we need to give right path of the config file which is present in your RHEL.
+
+Container Settings > Volumes
+
+/root/task3:/root/.kube/
+
+**Right side is the path where we have mounted config file that is to be used in Docker container. Left side is the path where we have mounted config file in RHEL.
+
+
 
 
 
