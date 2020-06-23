@@ -86,6 +86,12 @@ Container Settings > Volumes
 
 **Right side is the path where we have mounted config file that is to be used in Docker container. Left side is the path where we have mounted config file in RHEL.
 
+![5](https://user-images.githubusercontent.com/64473684/85369552-e99fe900-b54a-11ea-8881-750901bfeade.PNG)
+
+JOB 2:
+
+This job will be build after successful build of Job 1. This job has to run on dynamic container slave for that we have already added a template on Docker cloud. This job will create a new deployment (if it does not exist) or else we will roll out update to the existing deployment. Since we our building this job for first time, So it will create a new deployment.
+
 
 
 
