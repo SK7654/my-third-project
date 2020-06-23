@@ -46,6 +46,20 @@ Now we need to setup Docker Cloud on Jenkins. Before that we need to download so
 3.	WORKSPACE CLEANUP
 Now to setup Docker cloud on Jenkins. Go to following section.
 Manage Jenkins > Manage Nodes and Clouds > Configure Clouds > Add a new cloud
+  
+  ![2](https://user-images.githubusercontent.com/64473684/85367016-1271af80-b546-11ea-9f1f-d89ecc62b3cf.PNG)
+  
+Docker Host URI is the remote docker host where all the containers run.
+
+Now comes the JOB1:
+
+In this job it will download the files from GitHub using repository URL. The GitHub repository contains Dockerfile 2 and HTML file. The workspace will be cleaned before every build and then it will pull repository. Job 2 will build after the successful build Job 1.
+
+In the Build action we are using Build / Publish Docker Image. In this directory is set to default workspace. You need to give name of docker cloud which you assigned in the managed nodes and clouds. Give your docker image name and give credentials of Docker Hub and then enable push image.
+
+Dockerfile_2
+
+
 
 
 
