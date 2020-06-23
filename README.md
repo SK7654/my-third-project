@@ -96,6 +96,14 @@ This job will be build after successful build of Job 1. This job has to run on d
 
 It will use label which we have created on Docker cloud.
 
+![0 (10)](https://user-images.githubusercontent.com/64473684/85370469-64b5cf00-b54c-11ea-90b5-d30296c5d6a8.png)
+
+To check whether kubectl is configured properly or not, We will use command "kubectl --help" and then we will write the code which will help in creating new deployment.
+
+**Before running this job, Make sure to start minikube from windows command line and kubectl should be properly configured on RHEL and make sure you have good internet speed.
+
+Output of JOB 2:
+
 
 
 
