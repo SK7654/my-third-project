@@ -1,5 +1,7 @@
 ![0](https://user-images.githubusercontent.com/64473684/85363166-d4708d80-b53d-11ea-9b01-6ce997df3f02.jpg)
+
 Rolling Updates with Dynamic Distributed Clusters
+
 In this article I am going to show " How to roll out updates to your web page with zero downtime using Dynamic Distributed Clusters". I recently completed this project with help of Jenkins, Docker and Kubernetes.
 
 PREREQUISITE:
