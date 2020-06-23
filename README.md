@@ -69,6 +69,8 @@ OUTPUT OF JOB 1:
 
 As you can see my image is successfully pushed to Docker Hub.
 
+![0 (6)](https://user-images.githubusercontent.com/64473684/85368268-9167e780-b548-11ea-81be-366c924e1590.png)
+
 
 
 
